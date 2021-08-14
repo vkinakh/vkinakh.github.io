@@ -1,0 +1,29 @@
+# Degree
+- degree: Ph.D. student, Computer Science
+  uni: University of Geneva
+  year: 2021 &mdash; current
+  url: "https://www.unige.ch/"
+  # awards:
+  #  - award:
+  summary: "<p>I work on <a href='http://p3.snf.ch/project-193716'>SNF Sinergia RODEM</a> project in <a href='http://sip.unige.ch/'>Stochastic Information Processing</a> group. We are bringing deep learning to solar and particle physics.</p>"
+
+- degree: Master, Mathematical and Computer Modelling
+  uni: Lviv Polytechnic National University
+  year: 2020 &mdash; 2021
+  url: "https://lpnu.ua/en"
+  # awards
+  # summary:
+
+- degree: Research Intern, Computer Science
+  uni: Laval University
+  year: 2019
+  url: "https://www.ulaval.ca/en"
+  summary: "<p><a href='https://www.mitacs.ca/en'>MITACS Globalink</a> Internship. I was working on project <i>Spatial Clustering and Possibility Areas for Maritime Search and Rescue Operations Optimization</i></p>"
+
+
+- degree: Bachelor, Applied Mathematics
+  uni: Lviv Polytechnic National University
+  year: 2016 &mdash; 2020
+  url: "https://lpnu.ua/en"
+  # award:
+  summary: "<p>I was working on projects related to analysis of spatial greenhouse gas emissions and nightlight light data in particular on <a href='https://link.springer.com/chapter/10.1007/978-3-030-63270-0_25'>mitigating</a> geolocation errors in nighttime light satellite data and global CO2 emission gridded data.</p>"

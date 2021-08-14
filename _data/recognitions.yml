@@ -1,0 +1,12 @@
+# Recognitions
+- award: Air Quality Monitor
+  url: "https://2019.spaceappschallenge.org/challenges/living-our-world/surface-air-quality-mission/teams/serious-guys/project"
+  organization: NASA Space Apps Challenge
+  year: 2019
+  summary: Application for predicting air quality index (AQI) based on satellite data and on-ground observations using machine learning. This project was local round winner in Lviv, Ukraine.
+
+- award: Make Cities Green Again
+  url: "https://bit.ly/2zr5tb2"
+  organization: NASA Space Apps Challenge
+  year: 2018
+  summary: Application for analyzing raster images from satellite, detecting trees and green zones in cities, calculating the percentage of green zones in cities using computer vision techniques. This project was local round winner in Lviv, Ukraine.

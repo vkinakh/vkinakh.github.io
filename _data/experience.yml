@@ -1,0 +1,22 @@
+# Jobs
+- company: ABTO Software
+  url: "https://www.abtosoftware.com/"
+  position: Research & Development Engineer
+  duration: Jan, 2018 &mdash; Feb 2021
+  summary: "<p>I was using Computer Vision, Machine Learning and Deep Learning to solve real-worl problems in various
+  industries: <ul><li>retail</li><li>security</li><li>automatic document processing</li><li>agriculture</li></ul></p>"
+
+- company: International Institute for Applied Systems Analysis
+  url: "https://iiasa.ac.at/"
+  position: GeoData Annotation Specialist (Remote)
+  duration:  Sep, 2017 &mdash; Feb, 2019
+
+- company: ABTO Software
+  url: "https://www.abtosoftware.com/"
+  position: Computer Vision Intern
+  duration:  Jun, 2017 &mdash; Aug, 2017
+  summary: "<p>Computer Vision Internship. During the internship, I have created two projects:
+  <ul>
+  <li>Currency recognition app - application that recognizes currency</li>
+  <li>Computer vision calculator - app that performs arithmetical operations from the photo or video</li>
+  </ul></p>"

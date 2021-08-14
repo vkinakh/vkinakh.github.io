@@ -1,0 +1,16 @@
+# Skills
+
+- skill: Programming
+  description: Python; C++
+
+- skill: Machine Learning/Deep Learning/Computer Vision
+  description: Scikit-Learn; Keras; Pytorch; OpenCV; DLib; Tesseract
+
+- skill: Geoinformation systems
+  description: QGIS; Google Earth Engine
+
+- skill: Languages
+  description: Ukrainian (Native); English (Advanced); Russian (Advanced); French (Beginner); Polish (Beginner); German (Beginner)
+
+- skill: Other
+  description: "Web libraries: Flask; Operational systems: Linux, Windows; Git, SVN, Docker"

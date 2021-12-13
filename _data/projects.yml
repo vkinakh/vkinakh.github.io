@@ -1,14 +1,29 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-#- project: Springfield Community Outreach Group
-#  role: Co-Founder & Organizer
-#  duration: 2007 &mdash; Present
-#  # url: "#"
-#  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer
+- project: InfoSCC-GAN
+  role: Ph.D. research project, main author
+  duration: Aug, 2021 - Dec, 2021
+  url: "https://github.com/vkinakh/InfoSCC-GAN"
+  description: "<p>Information-theoretic stochastic contrastive conditional GAN: InfoSCC-GAN. Paper accepted to
+  NIPS 2021 <a href='http://bayesiandeeplearning.org/'>BDL Workshop</a></p>"
+
+- project: SC-GAN
+  role: Ph.D. research project, co-author
+  duration: Aug, 2021 - Dec, 2021
+  url: "http://bayesiandeeplearning.org/2021/papers/19.pdf"
+  description: "<p>Generation of data on discontinuous manifolds via continuous stochastic non-invertible networks.
+  Paper accepted to NIPS 2021 <a href='http://bayesiandeeplearning.org/'>BDL Workshop</a></p>"
+
+- project: Turbo-Sim
+  role: Ph.D. research project, co-author
+  duration: Aug, 2021 - Dec, 2021
+  url: "https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_142.pdf"
+  description: "<p>Turbo-Sim: a generalised generative model with a physical latent space. Paper accepted to NIPS 2021
+  <a href='https://ml4physicalsciences.github.io/2021/'>Machine Learning and the Physical Sciences Workshop</a></p>"
 
 - project: ScatSimCLR
-  role:
+  role: Ph.D. research project, main author
   duration: Mar, 2021 - Aug, 2021
   url: "https://github.com/vkinakh/scatsimclr"
   description: "<p>Self-supervised contrastive learning method with pretext task regularization for small-scale
